@@ -1,6 +1,6 @@
 # Real-Time Speech Analytics Dashboard
 
-![Dashboard Screenshot](https://via.placeholder.com/800x500?text=Speech+Analytics+Dashboard)
+![Dashboard Screenshot](https://github.com/github-pratik/Real-Time-Speech-Analytics-Dashboard/blob/main/upload.jpg)
 
 A web-based application for real-time speech analysis, providing metrics on speaking rate, pitch, filler words, and more. All audio processing and analysis happens in the browser using the Web Audio API.
 
